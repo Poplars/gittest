@@ -12,4 +12,4 @@ Creating a new branch is quick AND simple.
 
 Fast Forward Compare 
 
-No Fast Forword 
+No Fast Forword Test  
