@@ -10,6 +10,4 @@ xiaoq yang.shuqiang<yang.shuqiang@leftbrain.com.cn>
 
 Creating a new branch is quick AND simple.
 
-Fast Forward Compare 
-
-No Fast Forword Test  
+开启 Fast Forward 
