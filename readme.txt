@@ -22,3 +22,4 @@ Bug分支中的stash
 
 测试从主master分支创建的new_master_branch分支修改文件合并到已经保存工作区的分支dev上面，看看会出现什么问题
 
+测试 Bug分支中的stash pop
