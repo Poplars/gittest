@@ -18,3 +18,5 @@ Creating a new branch is quick AND simple.
 测试dev_child 分支 直接合并到分支 master 上 
 
 测试分支功能
+
+测试从主master分支创建的new_master_branch分支修改文件合并到已经保存工作区的分支dev上面，看看会出现什么问题
