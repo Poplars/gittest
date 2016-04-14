@@ -12,4 +12,7 @@ Creating a new branch is quick AND simple.
 
 开启 Fast Forward
 
-测试在分支dev上再开分支 dev_child 
+测试在分支dev上再开分支 dev_child
+
+
+测试dev_child 分支 直接合并到分支 master 上 
