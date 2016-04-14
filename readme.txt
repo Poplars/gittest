@@ -16,3 +16,5 @@ Creating a new branch is quick AND simple.
 
 
 测试dev_child 分支 直接合并到分支 master 上 
+
+测试分支功能
