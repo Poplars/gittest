@@ -12,4 +12,6 @@ Creating a new branch is quick AND simple.
 
 开启 Fast Forward
 
-测试在分支dev上再开分支 dev_child 
+测试在分支dev上再开分支 dev_child
+
+Bug分支中的stash
