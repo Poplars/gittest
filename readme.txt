@@ -4,8 +4,8 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 xiaoq Git train
-xiaoq yang.shuqiang<yang.shuqiang@leftbrain.com.cn>
-
+xiaoqiang yang.shuqiang<yang.shuqiang@leftbrain.com.cn>
+xiaomnv
 在master主分支上创建的dev分支，先不提交，先切换到主分支，看看主分支是否有这句话
 
 Creating a new branch is quick AND simple.
@@ -15,3 +15,10 @@ Creating a new branch is quick AND simple.
 测试在分支dev上再开分支 dev_child
 
 Bug分支中的stash
+
+测试dev_child 分支 直接合并到分支 master 上 
+
+测试分支功能
+
+测试从主master分支创建的new_master_branch分支修改文件合并到已经保存工作区的分支dev上面，看看会出现什么问题
+
